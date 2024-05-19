@@ -53,7 +53,7 @@ dev:
 	git clone --branch dev https://github.com/FeatherCMS/aggregator-module && \
 	git clone --branch dev https://github.com/FeatherCMS/blog-module && \
 	git clone --branch dev https://github.com/FeatherCMS/markdown-module && \
-	git clone --branch dev https://github.com/FeatherCMS/redirect-module && \
+	git clone --branch dev https://github.com/olegiv/redirect-module && \
 	git clone --branch dev https://github.com/FeatherCMS/swifty-module && \
 	cd feather
 
